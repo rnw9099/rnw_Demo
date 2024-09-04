@@ -17,6 +17,23 @@ int main()
   return 0;
 }
 
+--------------------------------------------------'
+
+upfate code
+
+#include <stdio.h>
+
+int main() 
+
+{
+
+  int age = 25;
+  printf("C Programming");
+
+
+  return 0;
+}
+
 ```
 
 **Output**
